@@ -1,1 +1,1 @@
-# gestion-des-donn-es-d-une-boutique
+# gestion des données d'une boutique
