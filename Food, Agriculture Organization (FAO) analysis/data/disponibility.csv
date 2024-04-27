@@ -1,4 +1,4 @@
-Zone,Produit,Origine,Aliments pour animaux,Autres Utilisations,Disponibilité alimentaire (Kcal/personne/jour),Disponibilité alimentaire en quantité (kg/personne/an),Disponibilité de matière grasse en quantité (g/personne/jour),Disponibilité de protéines en quantité (g/personne/jour),Disponibilité intérieure,Exportations - Quantité,Importations - Quantité,Nourriture,Pertes,Production,Semences,Traitement,Variation de stock
+country,product,Origin,for animals,other use,Dispo(Kcal/p/d),Dispo(kg/p/y),Dispo grasse(g/p/d),Dispo protein (g/p/d),Dispo in,Exportations,Importations,nutrition,lost,Production,Semences,Traitement,Variation
 Afghanistan,Abats Comestible,animale,,,5.0,1.72,0.2,0.77,53.0,,,53.0,,53.0,,,
 Afghanistan,"Agrumes, Autres",vegetale,,,1.0,1.29,0.01,0.02,41.0,2.0,40.0,39.0,2.0,3.0,,,
 Afghanistan,Aliments pour enfants,vegetale,,,1.0,0.06,0.01,0.03,2.0,,2.0,2.0,,,,,
