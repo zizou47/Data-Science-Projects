@@ -1,0 +1,204 @@
+country,Population,p/nutrition,% prop_nut
+Haïti,10982366,5300000,48.26
+République populaire démocratique de Corée,25429825,12000000,47.19
+Madagascar,25570512,10500000,41.06
+Libéria,4702226,1800000,38.28
+Lesotho,2091534,800000,38.25
+Tchad,15016753,5700000,37.96
+Rwanda,11980961,4200000,35.06
+Mozambique,28649018,9400000,32.81
+Timor-Leste,1243258,400000,32.17
+Afghanistan,36296113,10500000,28.93
+Congo,5110695,1400000,27.39
+Venezuela (République bolivarienne du),29402484,8000000,27.21
+Sierra Leone,7488423,2000000,26.71
+République-Unie de Tanzanie,54660339,13400000,24.52
+Iraq,37552781,9000000,23.97
+Kenya,50221142,11900000,23.7
+Botswana,2205080,500000,22.67
+Togo,7698474,1600000,20.78
+Côte d'Ivoire,24437470,4900000,20.05
+Éthiopie,106399924,21100000,19.83
+Angola,29816766,5800000,19.45
+Mongolie,3113786,600000,19.27
+Burkina Faso,19193234,3600000,18.76
+Malawi,17670196,3300000,18.68
+Eswatini,1124805,200000,17.78
+Nicaragua,6384846,1100000,17.23
+Guatemala,16914970,2700000,15.96
+Bolivie (État plurinational de),11192855,1700000,15.19
+Cambodge,16009409,2400000,14.99
+Philippines,105172925,15700000,14.93
+Gabon,2064822,300000,14.53
+Inde,1338676785,190100000,14.2
+Honduras,9429013,1300000,13.79
+Myanmar,53382523,7300000,13.67
+Gambie,2213889,300000,13.55
+Bangladesh,159685424,21500000,13.46
+Namibie,2402633,300000,12.49
+Soudan,40813397,5000000,12.25
+Nigéria,190873244,22800000,11.95
+Pakistan,207906209,24800000,11.93
+Mauritanie,4282570,500000,11.68
+Jamaïque,2920848,300000,10.27
+Sénégal,15419355,1500000,9.73
+El Salvador,6388126,600000,9.39
+Thaïlande,69209810,6200000,8.96
+Équateur,16785361,1500000,8.94
+Indonésie,264650963,23600000,8.92
+Paraguay,6867061,600000,8.74
+Oman,4665928,400000,8.57
+Jordanie,9785843,800000,8.18
+Sri Lanka,21128032,1600000,7.57
+Géorgie,4008716,300000,7.48
+Panama,4106769,300000,7.31
+Bénin,11175198,800000,7.16
+Pérou,31444298,2200000,7.0
+Ghana,29121465,2000000,6.87
+Viet Nam,94600648,6500000,6.87
+Mexique,124777324,8400000,6.73
+Cameroun,24566073,1600000,6.51
+Kirghizistan,6189733,400000,6.46
+Népal,27632681,1700000,6.15
+Liban,6819373,400000,5.87
+République dominicaine,10513104,600000,5.71
+Colombie,48909839,2700000,5.52
+Slovaquie,5447900,300000,5.51
+Afrique du Sud,57009756,3100000,5.44
+Mali,18512430,1000000,5.4
+Arabie saoudite,33101178,1600000,4.83
+Iran (République islamique d'),80673883,3900000,4.83
+Égypte,96442591,4600000,4.77
+Serbie,8829628,400000,4.53
+Costa Rica,4949954,200000,4.04
+Maroc,35581255,1400000,3.93
+"Chine, Taiwan Province de",23674546,900000,3.8
+Albanie,2884169,100000,3.47
+Turkménistan,5757667,200000,3.47
+Argentine,43937140,1500000,3.41
+Ukraine,44487709,1500000,3.37
+Chili,18470439,600000,3.25
+Malaisie,31104646,1000000,3.21
+Émirats arabes unis,9487203,300000,3.16
+Algérie,41389189,1300000,3.14
+Ouzbékistan,31959785,900000,2.82
+Bulgarie,7102444,200000,2.82
+Bélarus,9450231,0,0.0
+Belgique,11419748,0,0.0
+Belize,375769,0,0.0
+Estonie,1319390,0,0.0
+Kiribati,114158,0,0.0
+Barbade,286232,0,0.0
+Kazakhstan,18080019,0,0.0
+Bermudes,63049,0,0.0
+États-Unis d'Amérique,325084756,0,0.0
+Fédération de Russie,145530082,0,0.0
+Macédoine du Nord,2081996,0,0.0
+Dominique,71458,0,0.0
+Koweït,4056099,0,0.0
+Maurice,1264499,0,0.0
+Bhoutan,745563,0,0.0
+Bahreïn,1494076,0,0.0
+Bahamas,381755,0,0.0
+Autriche,8819901,0,0.0
+Antigua-et-Barbuda,95426,0,0.0
+Monténégro,627563,0,0.0
+Allemagne,82658409,0,0.0
+Azerbaïdjan,9845320,0,0.0
+Bosnie-Herzégovine,3351525,0,0.0
+Brésil,207833823,0,0.0
+Brunéi Darussalam,424473,0,0.0
+Espagne,46647428,0,0.0
+Érythrée,3412893,0,0.0
+Libye,6580724,0,0.0
+Andorre,77001,0,0.0
+Niger,21602382,0,0.0
+Italie,60673701,0,0.0
+Maldives,496402,0,0.0
+Lituanie,2845414,0,0.0
+France,64842509,0,0.0
+Irlande,4753279,0,0.0
+Îles Salomon,636039,0,0.0
+Îles Marshall,58058,0,0.0
+Îles Cook,17507,0,0.0
+Hongrie,9729823,0,0.0
+Guyana,775222,0,0.0
+Islande,334393,0,0.0
+Guinée-Bissau,1828145,0,0.0
+Guinée,12067518,0,0.0
+Groenland,56481,0,0.0
+Grenade,110874,0,0.0
+Grèce,10569450,0,0.0
+Finlande,5511371,0,0.0
+Luxembourg,591910,0,0.0
+Guinée équatoriale,1262002,0,0.0
+Australie,24584620,0,0.0
+Fidji,877459,0,0.0
+Arménie,2944791,0,0.0
+Israël,8243848,0,0.0
+Danemark,5732274,0,0.0
+Japon,127502725,0,0.0
+Nauru,10573,0,0.0
+Micronésie (États fédérés de),111459,0,0.0
+Malte,437933,0,0.0
+Djibouti,944099,0,0.0
+Tchéquie,10641034,0,0.0
+Cuba,11339254,0,0.0
+Singapour,5708041,0,0.0
+Soudan du Sud,10910763,0,0.0
+Zambie,16853599,0,0.0
+Yémen,27834819,0,0.0
+Vanuatu,285510,0,0.0
+Uruguay,3436641,0,0.0
+Tuvalu,11370,0,0.0
+Turquie,81116450,0,0.0
+Chine - RAS de Macao,622585,0,0.0
+Trinité-et-Tobago,1384059,0,0.0
+Tadjikistan,8880268,0,0.0
+Suisse,8455804,0,0.0
+Suède,9904896,0,0.0
+Qatar,2724728,0,0.0
+Suriname,570496,0,0.0
+Slovénie,2076393,0,0.0
+Portugal,10288527,0,0.0
+Saint-Kitts-et-Nevis,52045,0,0.0
+Porto Rico,3163667,0,0.0
+Pays-Bas,17021346,0,0.0
+Somalie,14589178,0,0.0
+Polynésie française,276102,0,0.0
+Palaos,17808,0,0.0
+Papouasie-Nouvelle-Guinée,8438036,0,0.0
+Ouganda,41166588,0,0.0
+Palestine,4747227,0,0.0
+Pologne,37953180,0,0.0
+Tunisie,11433443,0,0.0
+Canada,36732095,0,0.0
+Chypre,1179678,0,0.0
+Samoa américaines,55620,0,0.0
+"Chine, continentale",1421021791,0,0.0
+Chine - RAS de Hong-Kong,7306321,0,0.0
+Cabo Verde,537498,0,0.0
+Burundi,10827018,0,0.0
+Nioué,1609,0,0.0
+Tonga,101998,0,0.0
+Norvège,5296326,0,0.0
+Tokélaou,1300,0,0.0
+Lettonie,1951097,0,0.0
+Nouvelle-Zélande,4702034,0,0.0
+Seychelles,96418,0,0.0
+Sao Tomé-et-Principe,207089,0,0.0
+Samoa,195352,0,0.0
+Comores,813891,0,0.0
+Saint-Vincent-et-les Grenadines,109827,0,0.0
+Nouvelle-Calédonie,277150,0,0.0
+Sainte-Lucie,180954,0,0.0
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,66727460,0,0.0
+Roumanie,19653969,0,0.0
+République démocratique populaire lao,6953035,0,0.0
+République démocratique du Congo,81398764,0,0.0
+République de Moldova,4059684,0,0.0
+République de Corée,51096415,0,0.0
+République centrafricaine,4596023,0,0.0
+République arabe syrienne,17095678,0,0.0
+Croatie,4182857,0,0.0
+Zimbabwe,14236595,0,0.0
