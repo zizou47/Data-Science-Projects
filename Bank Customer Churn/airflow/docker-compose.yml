@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  dsp-final-airflow:
+    image: dsp-final-airflow:latest
+
+    volumes:
+      - ./:/opt/airflow/
+      - ../data:/opt/data
+      - ../api:/opt/api
+
+    ports:
+      - "8080:8080"
+
+    command: airflow standalone
