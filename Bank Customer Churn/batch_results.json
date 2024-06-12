@@ -1,0 +1,6302 @@
+[
+    [
+        {
+            "customer_id": 1,
+            "prediction": 0
+        },
+        {
+            "customer_id": 2,
+            "prediction": 0
+        },
+        {
+            "customer_id": 3,
+            "prediction": 0
+        },
+        {
+            "customer_id": 4,
+            "prediction": 0
+        },
+        {
+            "customer_id": 5,
+            "prediction": 0
+        },
+        {
+            "customer_id": 6,
+            "prediction": 0
+        },
+        {
+            "customer_id": 7,
+            "prediction": 0
+        },
+        {
+            "customer_id": 8,
+            "prediction": 0
+        },
+        {
+            "customer_id": 9,
+            "prediction": 0
+        },
+        {
+            "customer_id": 10,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 11,
+            "prediction": 0
+        },
+        {
+            "customer_id": 12,
+            "prediction": 0
+        },
+        {
+            "customer_id": 13,
+            "prediction": 0
+        },
+        {
+            "customer_id": 14,
+            "prediction": 0
+        },
+        {
+            "customer_id": 15,
+            "prediction": 0
+        },
+        {
+            "customer_id": 16,
+            "prediction": 0
+        },
+        {
+            "customer_id": 17,
+            "prediction": 0
+        },
+        {
+            "customer_id": 18,
+            "prediction": 0
+        },
+        {
+            "customer_id": 19,
+            "prediction": 0
+        },
+        {
+            "customer_id": 20,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 21,
+            "prediction": 0
+        },
+        {
+            "customer_id": 22,
+            "prediction": 0
+        },
+        {
+            "customer_id": 23,
+            "prediction": 0
+        },
+        {
+            "customer_id": 24,
+            "prediction": 1
+        },
+        {
+            "customer_id": 25,
+            "prediction": 0
+        },
+        {
+            "customer_id": 26,
+            "prediction": 1
+        },
+        {
+            "customer_id": 27,
+            "prediction": 1
+        },
+        {
+            "customer_id": 28,
+            "prediction": 0
+        },
+        {
+            "customer_id": 29,
+            "prediction": 1
+        },
+        {
+            "customer_id": 30,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 31,
+            "prediction": 0
+        },
+        {
+            "customer_id": 32,
+            "prediction": 0
+        },
+        {
+            "customer_id": 33,
+            "prediction": 0
+        },
+        {
+            "customer_id": 34,
+            "prediction": 0
+        },
+        {
+            "customer_id": 35,
+            "prediction": 0
+        },
+        {
+            "customer_id": 36,
+            "prediction": 0
+        },
+        {
+            "customer_id": 37,
+            "prediction": 0
+        },
+        {
+            "customer_id": 38,
+            "prediction": 0
+        },
+        {
+            "customer_id": 39,
+            "prediction": 0
+        },
+        {
+            "customer_id": 40,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 41,
+            "prediction": 0
+        },
+        {
+            "customer_id": 42,
+            "prediction": 0
+        },
+        {
+            "customer_id": 43,
+            "prediction": 0
+        },
+        {
+            "customer_id": 44,
+            "prediction": 0
+        },
+        {
+            "customer_id": 45,
+            "prediction": 0
+        },
+        {
+            "customer_id": 46,
+            "prediction": 1
+        },
+        {
+            "customer_id": 47,
+            "prediction": 0
+        },
+        {
+            "customer_id": 48,
+            "prediction": 0
+        },
+        {
+            "customer_id": 49,
+            "prediction": 0
+        },
+        {
+            "customer_id": 50,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 51,
+            "prediction": 0
+        },
+        {
+            "customer_id": 52,
+            "prediction": 0
+        },
+        {
+            "customer_id": 53,
+            "prediction": 0
+        },
+        {
+            "customer_id": 54,
+            "prediction": 0
+        },
+        {
+            "customer_id": 55,
+            "prediction": 0
+        },
+        {
+            "customer_id": 56,
+            "prediction": 0
+        },
+        {
+            "customer_id": 57,
+            "prediction": 0
+        },
+        {
+            "customer_id": 58,
+            "prediction": 0
+        },
+        {
+            "customer_id": 59,
+            "prediction": 0
+        },
+        {
+            "customer_id": 60,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 61,
+            "prediction": 0
+        },
+        {
+            "customer_id": 62,
+            "prediction": 0
+        },
+        {
+            "customer_id": 63,
+            "prediction": 0
+        },
+        {
+            "customer_id": 64,
+            "prediction": 0
+        },
+        {
+            "customer_id": 65,
+            "prediction": 0
+        },
+        {
+            "customer_id": 66,
+            "prediction": 1
+        },
+        {
+            "customer_id": 67,
+            "prediction": 0
+        },
+        {
+            "customer_id": 68,
+            "prediction": 1
+        },
+        {
+            "customer_id": 69,
+            "prediction": 0
+        },
+        {
+            "customer_id": 70,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 71,
+            "prediction": 1
+        },
+        {
+            "customer_id": 72,
+            "prediction": 0
+        },
+        {
+            "customer_id": 73,
+            "prediction": 0
+        },
+        {
+            "customer_id": 74,
+            "prediction": 0
+        },
+        {
+            "customer_id": 75,
+            "prediction": 0
+        },
+        {
+            "customer_id": 76,
+            "prediction": 0
+        },
+        {
+            "customer_id": 77,
+            "prediction": 0
+        },
+        {
+            "customer_id": 78,
+            "prediction": 0
+        },
+        {
+            "customer_id": 79,
+            "prediction": 0
+        },
+        {
+            "customer_id": 80,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 81,
+            "prediction": 0
+        },
+        {
+            "customer_id": 82,
+            "prediction": 0
+        },
+        {
+            "customer_id": 83,
+            "prediction": 0
+        },
+        {
+            "customer_id": 84,
+            "prediction": 0
+        },
+        {
+            "customer_id": 85,
+            "prediction": 0
+        },
+        {
+            "customer_id": 86,
+            "prediction": 0
+        },
+        {
+            "customer_id": 87,
+            "prediction": 0
+        },
+        {
+            "customer_id": 88,
+            "prediction": 0
+        },
+        {
+            "customer_id": 89,
+            "prediction": 0
+        },
+        {
+            "customer_id": 90,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 91,
+            "prediction": 0
+        },
+        {
+            "customer_id": 92,
+            "prediction": 0
+        },
+        {
+            "customer_id": 93,
+            "prediction": 0
+        },
+        {
+            "customer_id": 94,
+            "prediction": 0
+        },
+        {
+            "customer_id": 95,
+            "prediction": 0
+        },
+        {
+            "customer_id": 96,
+            "prediction": 0
+        },
+        {
+            "customer_id": 97,
+            "prediction": 0
+        },
+        {
+            "customer_id": 98,
+            "prediction": 0
+        },
+        {
+            "customer_id": 99,
+            "prediction": 0
+        },
+        {
+            "customer_id": 100,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 101,
+            "prediction": 0
+        },
+        {
+            "customer_id": 102,
+            "prediction": 1
+        },
+        {
+            "customer_id": 103,
+            "prediction": 0
+        },
+        {
+            "customer_id": 104,
+            "prediction": 1
+        },
+        {
+            "customer_id": 105,
+            "prediction": 0
+        },
+        {
+            "customer_id": 106,
+            "prediction": 0
+        },
+        {
+            "customer_id": 107,
+            "prediction": 0
+        },
+        {
+            "customer_id": 108,
+            "prediction": 0
+        },
+        {
+            "customer_id": 109,
+            "prediction": 0
+        },
+        {
+            "customer_id": 110,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 111,
+            "prediction": 0
+        },
+        {
+            "customer_id": 112,
+            "prediction": 0
+        },
+        {
+            "customer_id": 113,
+            "prediction": 1
+        },
+        {
+            "customer_id": 114,
+            "prediction": 0
+        },
+        {
+            "customer_id": 115,
+            "prediction": 0
+        },
+        {
+            "customer_id": 116,
+            "prediction": 0
+        },
+        {
+            "customer_id": 117,
+            "prediction": 0
+        },
+        {
+            "customer_id": 118,
+            "prediction": 0
+        },
+        {
+            "customer_id": 119,
+            "prediction": 0
+        },
+        {
+            "customer_id": 120,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 121,
+            "prediction": 0
+        },
+        {
+            "customer_id": 122,
+            "prediction": 0
+        },
+        {
+            "customer_id": 123,
+            "prediction": 0
+        },
+        {
+            "customer_id": 124,
+            "prediction": 0
+        },
+        {
+            "customer_id": 125,
+            "prediction": 0
+        },
+        {
+            "customer_id": 126,
+            "prediction": 0
+        },
+        {
+            "customer_id": 127,
+            "prediction": 0
+        },
+        {
+            "customer_id": 128,
+            "prediction": 0
+        },
+        {
+            "customer_id": 129,
+            "prediction": 0
+        },
+        {
+            "customer_id": 130,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 131,
+            "prediction": 0
+        },
+        {
+            "customer_id": 132,
+            "prediction": 0
+        },
+        {
+            "customer_id": 133,
+            "prediction": 0
+        },
+        {
+            "customer_id": 134,
+            "prediction": 0
+        },
+        {
+            "customer_id": 135,
+            "prediction": 0
+        },
+        {
+            "customer_id": 136,
+            "prediction": 1
+        },
+        {
+            "customer_id": 137,
+            "prediction": 0
+        },
+        {
+            "customer_id": 138,
+            "prediction": 0
+        },
+        {
+            "customer_id": 139,
+            "prediction": 1
+        },
+        {
+            "customer_id": 140,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 141,
+            "prediction": 0
+        },
+        {
+            "customer_id": 142,
+            "prediction": 0
+        },
+        {
+            "customer_id": 143,
+            "prediction": 0
+        },
+        {
+            "customer_id": 144,
+            "prediction": 0
+        },
+        {
+            "customer_id": 145,
+            "prediction": 0
+        },
+        {
+            "customer_id": 146,
+            "prediction": 0
+        },
+        {
+            "customer_id": 147,
+            "prediction": 0
+        },
+        {
+            "customer_id": 148,
+            "prediction": 0
+        },
+        {
+            "customer_id": 149,
+            "prediction": 0
+        },
+        {
+            "customer_id": 150,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 151,
+            "prediction": 0
+        },
+        {
+            "customer_id": 152,
+            "prediction": 0
+        },
+        {
+            "customer_id": 153,
+            "prediction": 0
+        },
+        {
+            "customer_id": 154,
+            "prediction": 0
+        },
+        {
+            "customer_id": 155,
+            "prediction": 0
+        },
+        {
+            "customer_id": 156,
+            "prediction": 1
+        },
+        {
+            "customer_id": 157,
+            "prediction": 0
+        },
+        {
+            "customer_id": 158,
+            "prediction": 0
+        },
+        {
+            "customer_id": 159,
+            "prediction": 0
+        },
+        {
+            "customer_id": 160,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 161,
+            "prediction": 0
+        },
+        {
+            "customer_id": 162,
+            "prediction": 0
+        },
+        {
+            "customer_id": 163,
+            "prediction": 0
+        },
+        {
+            "customer_id": 164,
+            "prediction": 1
+        },
+        {
+            "customer_id": 165,
+            "prediction": 0
+        },
+        {
+            "customer_id": 166,
+            "prediction": 0
+        },
+        {
+            "customer_id": 167,
+            "prediction": 0
+        },
+        {
+            "customer_id": 168,
+            "prediction": 1
+        },
+        {
+            "customer_id": 169,
+            "prediction": 0
+        },
+        {
+            "customer_id": 170,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 171,
+            "prediction": 0
+        },
+        {
+            "customer_id": 172,
+            "prediction": 0
+        },
+        {
+            "customer_id": 173,
+            "prediction": 0
+        },
+        {
+            "customer_id": 174,
+            "prediction": 0
+        },
+        {
+            "customer_id": 175,
+            "prediction": 0
+        },
+        {
+            "customer_id": 176,
+            "prediction": 0
+        },
+        {
+            "customer_id": 177,
+            "prediction": 0
+        },
+        {
+            "customer_id": 178,
+            "prediction": 0
+        },
+        {
+            "customer_id": 179,
+            "prediction": 0
+        },
+        {
+            "customer_id": 180,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 181,
+            "prediction": 0
+        },
+        {
+            "customer_id": 182,
+            "prediction": 0
+        },
+        {
+            "customer_id": 183,
+            "prediction": 0
+        },
+        {
+            "customer_id": 184,
+            "prediction": 0
+        },
+        {
+            "customer_id": 185,
+            "prediction": 0
+        },
+        {
+            "customer_id": 186,
+            "prediction": 0
+        },
+        {
+            "customer_id": 187,
+            "prediction": 0
+        },
+        {
+            "customer_id": 188,
+            "prediction": 0
+        },
+        {
+            "customer_id": 189,
+            "prediction": 0
+        },
+        {
+            "customer_id": 190,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 191,
+            "prediction": 0
+        },
+        {
+            "customer_id": 192,
+            "prediction": 0
+        },
+        {
+            "customer_id": 193,
+            "prediction": 1
+        },
+        {
+            "customer_id": 194,
+            "prediction": 0
+        },
+        {
+            "customer_id": 195,
+            "prediction": 0
+        },
+        {
+            "customer_id": 196,
+            "prediction": 0
+        },
+        {
+            "customer_id": 197,
+            "prediction": 0
+        },
+        {
+            "customer_id": 198,
+            "prediction": 0
+        },
+        {
+            "customer_id": 199,
+            "prediction": 0
+        },
+        {
+            "customer_id": 200,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 201,
+            "prediction": 0
+        },
+        {
+            "customer_id": 202,
+            "prediction": 0
+        },
+        {
+            "customer_id": 203,
+            "prediction": 0
+        },
+        {
+            "customer_id": 204,
+            "prediction": 0
+        },
+        {
+            "customer_id": 205,
+            "prediction": 1
+        },
+        {
+            "customer_id": 206,
+            "prediction": 0
+        },
+        {
+            "customer_id": 207,
+            "prediction": 0
+        },
+        {
+            "customer_id": 208,
+            "prediction": 1
+        },
+        {
+            "customer_id": 209,
+            "prediction": 0
+        },
+        {
+            "customer_id": 210,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 211,
+            "prediction": 0
+        },
+        {
+            "customer_id": 212,
+            "prediction": 0
+        },
+        {
+            "customer_id": 213,
+            "prediction": 0
+        },
+        {
+            "customer_id": 214,
+            "prediction": 0
+        },
+        {
+            "customer_id": 215,
+            "prediction": 0
+        },
+        {
+            "customer_id": 216,
+            "prediction": 0
+        },
+        {
+            "customer_id": 217,
+            "prediction": 0
+        },
+        {
+            "customer_id": 218,
+            "prediction": 0
+        },
+        {
+            "customer_id": 219,
+            "prediction": 0
+        },
+        {
+            "customer_id": 220,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 221,
+            "prediction": 0
+        },
+        {
+            "customer_id": 222,
+            "prediction": 0
+        },
+        {
+            "customer_id": 223,
+            "prediction": 0
+        },
+        {
+            "customer_id": 224,
+            "prediction": 0
+        },
+        {
+            "customer_id": 225,
+            "prediction": 0
+        },
+        {
+            "customer_id": 226,
+            "prediction": 0
+        },
+        {
+            "customer_id": 227,
+            "prediction": 0
+        },
+        {
+            "customer_id": 228,
+            "prediction": 0
+        },
+        {
+            "customer_id": 229,
+            "prediction": 0
+        },
+        {
+            "customer_id": 230,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 231,
+            "prediction": 0
+        },
+        {
+            "customer_id": 232,
+            "prediction": 0
+        },
+        {
+            "customer_id": 233,
+            "prediction": 0
+        },
+        {
+            "customer_id": 234,
+            "prediction": 0
+        },
+        {
+            "customer_id": 235,
+            "prediction": 0
+        },
+        {
+            "customer_id": 236,
+            "prediction": 0
+        },
+        {
+            "customer_id": 237,
+            "prediction": 0
+        },
+        {
+            "customer_id": 238,
+            "prediction": 0
+        },
+        {
+            "customer_id": 239,
+            "prediction": 0
+        },
+        {
+            "customer_id": 240,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 241,
+            "prediction": 1
+        },
+        {
+            "customer_id": 242,
+            "prediction": 0
+        },
+        {
+            "customer_id": 243,
+            "prediction": 0
+        },
+        {
+            "customer_id": 244,
+            "prediction": 0
+        },
+        {
+            "customer_id": 245,
+            "prediction": 0
+        },
+        {
+            "customer_id": 246,
+            "prediction": 0
+        },
+        {
+            "customer_id": 247,
+            "prediction": 0
+        },
+        {
+            "customer_id": 248,
+            "prediction": 0
+        },
+        {
+            "customer_id": 249,
+            "prediction": 0
+        },
+        {
+            "customer_id": 250,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 251,
+            "prediction": 0
+        },
+        {
+            "customer_id": 252,
+            "prediction": 0
+        },
+        {
+            "customer_id": 253,
+            "prediction": 0
+        },
+        {
+            "customer_id": 254,
+            "prediction": 1
+        },
+        {
+            "customer_id": 255,
+            "prediction": 1
+        },
+        {
+            "customer_id": 256,
+            "prediction": 0
+        },
+        {
+            "customer_id": 257,
+            "prediction": 0
+        },
+        {
+            "customer_id": 258,
+            "prediction": 0
+        },
+        {
+            "customer_id": 259,
+            "prediction": 0
+        },
+        {
+            "customer_id": 260,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 261,
+            "prediction": 0
+        },
+        {
+            "customer_id": 262,
+            "prediction": 0
+        },
+        {
+            "customer_id": 263,
+            "prediction": 0
+        },
+        {
+            "customer_id": 264,
+            "prediction": 0
+        },
+        {
+            "customer_id": 265,
+            "prediction": 0
+        },
+        {
+            "customer_id": 266,
+            "prediction": 0
+        },
+        {
+            "customer_id": 267,
+            "prediction": 0
+        },
+        {
+            "customer_id": 268,
+            "prediction": 0
+        },
+        {
+            "customer_id": 269,
+            "prediction": 0
+        },
+        {
+            "customer_id": 270,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 271,
+            "prediction": 0
+        },
+        {
+            "customer_id": 272,
+            "prediction": 0
+        },
+        {
+            "customer_id": 273,
+            "prediction": 0
+        },
+        {
+            "customer_id": 274,
+            "prediction": 0
+        },
+        {
+            "customer_id": 275,
+            "prediction": 0
+        },
+        {
+            "customer_id": 276,
+            "prediction": 1
+        },
+        {
+            "customer_id": 277,
+            "prediction": 0
+        },
+        {
+            "customer_id": 278,
+            "prediction": 0
+        },
+        {
+            "customer_id": 279,
+            "prediction": 0
+        },
+        {
+            "customer_id": 280,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 281,
+            "prediction": 0
+        },
+        {
+            "customer_id": 282,
+            "prediction": 0
+        },
+        {
+            "customer_id": 283,
+            "prediction": 0
+        },
+        {
+            "customer_id": 284,
+            "prediction": 0
+        },
+        {
+            "customer_id": 285,
+            "prediction": 0
+        },
+        {
+            "customer_id": 286,
+            "prediction": 0
+        },
+        {
+            "customer_id": 287,
+            "prediction": 1
+        },
+        {
+            "customer_id": 288,
+            "prediction": 0
+        },
+        {
+            "customer_id": 289,
+            "prediction": 0
+        },
+        {
+            "customer_id": 290,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 291,
+            "prediction": 0
+        },
+        {
+            "customer_id": 292,
+            "prediction": 0
+        },
+        {
+            "customer_id": 293,
+            "prediction": 0
+        },
+        {
+            "customer_id": 294,
+            "prediction": 0
+        },
+        {
+            "customer_id": 295,
+            "prediction": 0
+        },
+        {
+            "customer_id": 296,
+            "prediction": 0
+        },
+        {
+            "customer_id": 297,
+            "prediction": 0
+        },
+        {
+            "customer_id": 298,
+            "prediction": 0
+        },
+        {
+            "customer_id": 299,
+            "prediction": 1
+        },
+        {
+            "customer_id": 300,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 301,
+            "prediction": 0
+        },
+        {
+            "customer_id": 302,
+            "prediction": 0
+        },
+        {
+            "customer_id": 303,
+            "prediction": 0
+        },
+        {
+            "customer_id": 304,
+            "prediction": 1
+        },
+        {
+            "customer_id": 305,
+            "prediction": 1
+        },
+        {
+            "customer_id": 306,
+            "prediction": 0
+        },
+        {
+            "customer_id": 307,
+            "prediction": 0
+        },
+        {
+            "customer_id": 308,
+            "prediction": 0
+        },
+        {
+            "customer_id": 309,
+            "prediction": 1
+        },
+        {
+            "customer_id": 310,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 311,
+            "prediction": 1
+        },
+        {
+            "customer_id": 312,
+            "prediction": 0
+        },
+        {
+            "customer_id": 313,
+            "prediction": 0
+        },
+        {
+            "customer_id": 314,
+            "prediction": 0
+        },
+        {
+            "customer_id": 315,
+            "prediction": 1
+        },
+        {
+            "customer_id": 316,
+            "prediction": 0
+        },
+        {
+            "customer_id": 317,
+            "prediction": 0
+        },
+        {
+            "customer_id": 318,
+            "prediction": 0
+        },
+        {
+            "customer_id": 319,
+            "prediction": 0
+        },
+        {
+            "customer_id": 320,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 321,
+            "prediction": 0
+        },
+        {
+            "customer_id": 322,
+            "prediction": 1
+        },
+        {
+            "customer_id": 323,
+            "prediction": 0
+        },
+        {
+            "customer_id": 324,
+            "prediction": 0
+        },
+        {
+            "customer_id": 325,
+            "prediction": 0
+        },
+        {
+            "customer_id": 326,
+            "prediction": 0
+        },
+        {
+            "customer_id": 327,
+            "prediction": 0
+        },
+        {
+            "customer_id": 328,
+            "prediction": 0
+        },
+        {
+            "customer_id": 329,
+            "prediction": 0
+        },
+        {
+            "customer_id": 330,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 331,
+            "prediction": 0
+        },
+        {
+            "customer_id": 332,
+            "prediction": 0
+        },
+        {
+            "customer_id": 333,
+            "prediction": 0
+        },
+        {
+            "customer_id": 334,
+            "prediction": 0
+        },
+        {
+            "customer_id": 335,
+            "prediction": 0
+        },
+        {
+            "customer_id": 336,
+            "prediction": 0
+        },
+        {
+            "customer_id": 337,
+            "prediction": 0
+        },
+        {
+            "customer_id": 338,
+            "prediction": 0
+        },
+        {
+            "customer_id": 339,
+            "prediction": 0
+        },
+        {
+            "customer_id": 340,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 341,
+            "prediction": 0
+        },
+        {
+            "customer_id": 342,
+            "prediction": 1
+        },
+        {
+            "customer_id": 343,
+            "prediction": 0
+        },
+        {
+            "customer_id": 344,
+            "prediction": 0
+        },
+        {
+            "customer_id": 345,
+            "prediction": 1
+        },
+        {
+            "customer_id": 346,
+            "prediction": 0
+        },
+        {
+            "customer_id": 347,
+            "prediction": 0
+        },
+        {
+            "customer_id": 348,
+            "prediction": 0
+        },
+        {
+            "customer_id": 349,
+            "prediction": 0
+        },
+        {
+            "customer_id": 350,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 351,
+            "prediction": 0
+        },
+        {
+            "customer_id": 352,
+            "prediction": 1
+        },
+        {
+            "customer_id": 353,
+            "prediction": 0
+        },
+        {
+            "customer_id": 354,
+            "prediction": 0
+        },
+        {
+            "customer_id": 355,
+            "prediction": 0
+        },
+        {
+            "customer_id": 356,
+            "prediction": 0
+        },
+        {
+            "customer_id": 357,
+            "prediction": 0
+        },
+        {
+            "customer_id": 358,
+            "prediction": 0
+        },
+        {
+            "customer_id": 359,
+            "prediction": 0
+        },
+        {
+            "customer_id": 360,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 361,
+            "prediction": 0
+        },
+        {
+            "customer_id": 362,
+            "prediction": 0
+        },
+        {
+            "customer_id": 363,
+            "prediction": 0
+        },
+        {
+            "customer_id": 364,
+            "prediction": 0
+        },
+        {
+            "customer_id": 365,
+            "prediction": 0
+        },
+        {
+            "customer_id": 366,
+            "prediction": 0
+        },
+        {
+            "customer_id": 367,
+            "prediction": 0
+        },
+        {
+            "customer_id": 368,
+            "prediction": 0
+        },
+        {
+            "customer_id": 369,
+            "prediction": 0
+        },
+        {
+            "customer_id": 370,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 371,
+            "prediction": 0
+        },
+        {
+            "customer_id": 372,
+            "prediction": 0
+        },
+        {
+            "customer_id": 373,
+            "prediction": 0
+        },
+        {
+            "customer_id": 374,
+            "prediction": 1
+        },
+        {
+            "customer_id": 375,
+            "prediction": 0
+        },
+        {
+            "customer_id": 376,
+            "prediction": 0
+        },
+        {
+            "customer_id": 377,
+            "prediction": 0
+        },
+        {
+            "customer_id": 378,
+            "prediction": 0
+        },
+        {
+            "customer_id": 379,
+            "prediction": 0
+        },
+        {
+            "customer_id": 380,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 381,
+            "prediction": 1
+        },
+        {
+            "customer_id": 382,
+            "prediction": 0
+        },
+        {
+            "customer_id": 383,
+            "prediction": 0
+        },
+        {
+            "customer_id": 384,
+            "prediction": 0
+        },
+        {
+            "customer_id": 385,
+            "prediction": 0
+        },
+        {
+            "customer_id": 386,
+            "prediction": 0
+        },
+        {
+            "customer_id": 387,
+            "prediction": 0
+        },
+        {
+            "customer_id": 388,
+            "prediction": 0
+        },
+        {
+            "customer_id": 389,
+            "prediction": 0
+        },
+        {
+            "customer_id": 390,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 391,
+            "prediction": 0
+        },
+        {
+            "customer_id": 392,
+            "prediction": 0
+        },
+        {
+            "customer_id": 393,
+            "prediction": 1
+        },
+        {
+            "customer_id": 394,
+            "prediction": 0
+        },
+        {
+            "customer_id": 395,
+            "prediction": 0
+        },
+        {
+            "customer_id": 396,
+            "prediction": 0
+        },
+        {
+            "customer_id": 397,
+            "prediction": 0
+        },
+        {
+            "customer_id": 398,
+            "prediction": 0
+        },
+        {
+            "customer_id": 399,
+            "prediction": 0
+        },
+        {
+            "customer_id": 400,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 401,
+            "prediction": 0
+        },
+        {
+            "customer_id": 402,
+            "prediction": 0
+        },
+        {
+            "customer_id": 403,
+            "prediction": 1
+        },
+        {
+            "customer_id": 404,
+            "prediction": 0
+        },
+        {
+            "customer_id": 405,
+            "prediction": 0
+        },
+        {
+            "customer_id": 406,
+            "prediction": 0
+        },
+        {
+            "customer_id": 407,
+            "prediction": 0
+        },
+        {
+            "customer_id": 408,
+            "prediction": 0
+        },
+        {
+            "customer_id": 409,
+            "prediction": 0
+        },
+        {
+            "customer_id": 410,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 411,
+            "prediction": 0
+        },
+        {
+            "customer_id": 412,
+            "prediction": 0
+        },
+        {
+            "customer_id": 413,
+            "prediction": 0
+        },
+        {
+            "customer_id": 414,
+            "prediction": 0
+        },
+        {
+            "customer_id": 415,
+            "prediction": 0
+        },
+        {
+            "customer_id": 416,
+            "prediction": 0
+        },
+        {
+            "customer_id": 417,
+            "prediction": 0
+        },
+        {
+            "customer_id": 418,
+            "prediction": 0
+        },
+        {
+            "customer_id": 419,
+            "prediction": 0
+        },
+        {
+            "customer_id": 420,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 421,
+            "prediction": 0
+        },
+        {
+            "customer_id": 422,
+            "prediction": 0
+        },
+        {
+            "customer_id": 423,
+            "prediction": 0
+        },
+        {
+            "customer_id": 424,
+            "prediction": 0
+        },
+        {
+            "customer_id": 425,
+            "prediction": 0
+        },
+        {
+            "customer_id": 426,
+            "prediction": 0
+        },
+        {
+            "customer_id": 427,
+            "prediction": 0
+        },
+        {
+            "customer_id": 428,
+            "prediction": 0
+        },
+        {
+            "customer_id": 429,
+            "prediction": 0
+        },
+        {
+            "customer_id": 430,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 431,
+            "prediction": 0
+        },
+        {
+            "customer_id": 432,
+            "prediction": 0
+        },
+        {
+            "customer_id": 433,
+            "prediction": 0
+        },
+        {
+            "customer_id": 434,
+            "prediction": 0
+        },
+        {
+            "customer_id": 435,
+            "prediction": 0
+        },
+        {
+            "customer_id": 436,
+            "prediction": 0
+        },
+        {
+            "customer_id": 437,
+            "prediction": 0
+        },
+        {
+            "customer_id": 438,
+            "prediction": 0
+        },
+        {
+            "customer_id": 439,
+            "prediction": 0
+        },
+        {
+            "customer_id": 440,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 441,
+            "prediction": 0
+        },
+        {
+            "customer_id": 442,
+            "prediction": 1
+        },
+        {
+            "customer_id": 443,
+            "prediction": 0
+        },
+        {
+            "customer_id": 444,
+            "prediction": 0
+        },
+        {
+            "customer_id": 445,
+            "prediction": 0
+        },
+        {
+            "customer_id": 446,
+            "prediction": 0
+        },
+        {
+            "customer_id": 447,
+            "prediction": 0
+        },
+        {
+            "customer_id": 448,
+            "prediction": 0
+        },
+        {
+            "customer_id": 449,
+            "prediction": 0
+        },
+        {
+            "customer_id": 450,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 451,
+            "prediction": 0
+        },
+        {
+            "customer_id": 452,
+            "prediction": 0
+        },
+        {
+            "customer_id": 453,
+            "prediction": 0
+        },
+        {
+            "customer_id": 454,
+            "prediction": 0
+        },
+        {
+            "customer_id": 455,
+            "prediction": 0
+        },
+        {
+            "customer_id": 456,
+            "prediction": 0
+        },
+        {
+            "customer_id": 457,
+            "prediction": 0
+        },
+        {
+            "customer_id": 458,
+            "prediction": 0
+        },
+        {
+            "customer_id": 459,
+            "prediction": 0
+        },
+        {
+            "customer_id": 460,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 461,
+            "prediction": 0
+        },
+        {
+            "customer_id": 462,
+            "prediction": 0
+        },
+        {
+            "customer_id": 463,
+            "prediction": 0
+        },
+        {
+            "customer_id": 464,
+            "prediction": 0
+        },
+        {
+            "customer_id": 465,
+            "prediction": 0
+        },
+        {
+            "customer_id": 466,
+            "prediction": 0
+        },
+        {
+            "customer_id": 467,
+            "prediction": 0
+        },
+        {
+            "customer_id": 468,
+            "prediction": 0
+        },
+        {
+            "customer_id": 469,
+            "prediction": 1
+        },
+        {
+            "customer_id": 470,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 471,
+            "prediction": 0
+        },
+        {
+            "customer_id": 472,
+            "prediction": 0
+        },
+        {
+            "customer_id": 473,
+            "prediction": 0
+        },
+        {
+            "customer_id": 474,
+            "prediction": 0
+        },
+        {
+            "customer_id": 475,
+            "prediction": 0
+        },
+        {
+            "customer_id": 476,
+            "prediction": 0
+        },
+        {
+            "customer_id": 477,
+            "prediction": 1
+        },
+        {
+            "customer_id": 478,
+            "prediction": 0
+        },
+        {
+            "customer_id": 479,
+            "prediction": 0
+        },
+        {
+            "customer_id": 480,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 481,
+            "prediction": 0
+        },
+        {
+            "customer_id": 482,
+            "prediction": 0
+        },
+        {
+            "customer_id": 483,
+            "prediction": 0
+        },
+        {
+            "customer_id": 484,
+            "prediction": 0
+        },
+        {
+            "customer_id": 485,
+            "prediction": 0
+        },
+        {
+            "customer_id": 486,
+            "prediction": 0
+        },
+        {
+            "customer_id": 487,
+            "prediction": 1
+        },
+        {
+            "customer_id": 488,
+            "prediction": 0
+        },
+        {
+            "customer_id": 489,
+            "prediction": 0
+        },
+        {
+            "customer_id": 490,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 491,
+            "prediction": 0
+        },
+        {
+            "customer_id": 492,
+            "prediction": 0
+        },
+        {
+            "customer_id": 493,
+            "prediction": 1
+        },
+        {
+            "customer_id": 494,
+            "prediction": 0
+        },
+        {
+            "customer_id": 495,
+            "prediction": 0
+        },
+        {
+            "customer_id": 496,
+            "prediction": 0
+        },
+        {
+            "customer_id": 497,
+            "prediction": 0
+        },
+        {
+            "customer_id": 498,
+            "prediction": 0
+        },
+        {
+            "customer_id": 499,
+            "prediction": 0
+        },
+        {
+            "customer_id": 500,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 501,
+            "prediction": 0
+        },
+        {
+            "customer_id": 502,
+            "prediction": 1
+        },
+        {
+            "customer_id": 503,
+            "prediction": 0
+        },
+        {
+            "customer_id": 504,
+            "prediction": 0
+        },
+        {
+            "customer_id": 505,
+            "prediction": 0
+        },
+        {
+            "customer_id": 506,
+            "prediction": 0
+        },
+        {
+            "customer_id": 507,
+            "prediction": 1
+        },
+        {
+            "customer_id": 508,
+            "prediction": 0
+        },
+        {
+            "customer_id": 509,
+            "prediction": 0
+        },
+        {
+            "customer_id": 510,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 511,
+            "prediction": 0
+        },
+        {
+            "customer_id": 512,
+            "prediction": 0
+        },
+        {
+            "customer_id": 513,
+            "prediction": 0
+        },
+        {
+            "customer_id": 514,
+            "prediction": 0
+        },
+        {
+            "customer_id": 515,
+            "prediction": 0
+        },
+        {
+            "customer_id": 516,
+            "prediction": 0
+        },
+        {
+            "customer_id": 517,
+            "prediction": 0
+        },
+        {
+            "customer_id": 518,
+            "prediction": 0
+        },
+        {
+            "customer_id": 519,
+            "prediction": 0
+        },
+        {
+            "customer_id": 520,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 521,
+            "prediction": 0
+        },
+        {
+            "customer_id": 522,
+            "prediction": 0
+        },
+        {
+            "customer_id": 523,
+            "prediction": 0
+        },
+        {
+            "customer_id": 524,
+            "prediction": 0
+        },
+        {
+            "customer_id": 525,
+            "prediction": 0
+        },
+        {
+            "customer_id": 526,
+            "prediction": 0
+        },
+        {
+            "customer_id": 527,
+            "prediction": 0
+        },
+        {
+            "customer_id": 528,
+            "prediction": 0
+        },
+        {
+            "customer_id": 529,
+            "prediction": 0
+        },
+        {
+            "customer_id": 530,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 531,
+            "prediction": 0
+        },
+        {
+            "customer_id": 532,
+            "prediction": 1
+        },
+        {
+            "customer_id": 533,
+            "prediction": 0
+        },
+        {
+            "customer_id": 534,
+            "prediction": 0
+        },
+        {
+            "customer_id": 535,
+            "prediction": 0
+        },
+        {
+            "customer_id": 536,
+            "prediction": 0
+        },
+        {
+            "customer_id": 537,
+            "prediction": 0
+        },
+        {
+            "customer_id": 538,
+            "prediction": 1
+        },
+        {
+            "customer_id": 539,
+            "prediction": 0
+        },
+        {
+            "customer_id": 540,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 541,
+            "prediction": 0
+        },
+        {
+            "customer_id": 542,
+            "prediction": 0
+        },
+        {
+            "customer_id": 543,
+            "prediction": 0
+        },
+        {
+            "customer_id": 544,
+            "prediction": 0
+        },
+        {
+            "customer_id": 545,
+            "prediction": 0
+        },
+        {
+            "customer_id": 546,
+            "prediction": 0
+        },
+        {
+            "customer_id": 547,
+            "prediction": 0
+        },
+        {
+            "customer_id": 548,
+            "prediction": 0
+        },
+        {
+            "customer_id": 549,
+            "prediction": 0
+        },
+        {
+            "customer_id": 550,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 551,
+            "prediction": 0
+        },
+        {
+            "customer_id": 552,
+            "prediction": 1
+        },
+        {
+            "customer_id": 553,
+            "prediction": 1
+        },
+        {
+            "customer_id": 554,
+            "prediction": 0
+        },
+        {
+            "customer_id": 555,
+            "prediction": 0
+        },
+        {
+            "customer_id": 556,
+            "prediction": 0
+        },
+        {
+            "customer_id": 557,
+            "prediction": 0
+        },
+        {
+            "customer_id": 558,
+            "prediction": 0
+        },
+        {
+            "customer_id": 559,
+            "prediction": 0
+        },
+        {
+            "customer_id": 560,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 561,
+            "prediction": 0
+        },
+        {
+            "customer_id": 562,
+            "prediction": 0
+        },
+        {
+            "customer_id": 563,
+            "prediction": 0
+        },
+        {
+            "customer_id": 564,
+            "prediction": 0
+        },
+        {
+            "customer_id": 565,
+            "prediction": 0
+        },
+        {
+            "customer_id": 566,
+            "prediction": 0
+        },
+        {
+            "customer_id": 567,
+            "prediction": 0
+        },
+        {
+            "customer_id": 568,
+            "prediction": 0
+        },
+        {
+            "customer_id": 569,
+            "prediction": 1
+        },
+        {
+            "customer_id": 570,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 571,
+            "prediction": 0
+        },
+        {
+            "customer_id": 572,
+            "prediction": 0
+        },
+        {
+            "customer_id": 573,
+            "prediction": 0
+        },
+        {
+            "customer_id": 574,
+            "prediction": 0
+        },
+        {
+            "customer_id": 575,
+            "prediction": 0
+        },
+        {
+            "customer_id": 576,
+            "prediction": 0
+        },
+        {
+            "customer_id": 577,
+            "prediction": 0
+        },
+        {
+            "customer_id": 578,
+            "prediction": 0
+        },
+        {
+            "customer_id": 579,
+            "prediction": 0
+        },
+        {
+            "customer_id": 580,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 581,
+            "prediction": 0
+        },
+        {
+            "customer_id": 582,
+            "prediction": 0
+        },
+        {
+            "customer_id": 583,
+            "prediction": 0
+        },
+        {
+            "customer_id": 584,
+            "prediction": 1
+        },
+        {
+            "customer_id": 585,
+            "prediction": 0
+        },
+        {
+            "customer_id": 586,
+            "prediction": 0
+        },
+        {
+            "customer_id": 587,
+            "prediction": 0
+        },
+        {
+            "customer_id": 588,
+            "prediction": 0
+        },
+        {
+            "customer_id": 589,
+            "prediction": 0
+        },
+        {
+            "customer_id": 590,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 591,
+            "prediction": 0
+        },
+        {
+            "customer_id": 592,
+            "prediction": 0
+        },
+        {
+            "customer_id": 593,
+            "prediction": 0
+        },
+        {
+            "customer_id": 594,
+            "prediction": 0
+        },
+        {
+            "customer_id": 595,
+            "prediction": 0
+        },
+        {
+            "customer_id": 596,
+            "prediction": 1
+        },
+        {
+            "customer_id": 597,
+            "prediction": 0
+        },
+        {
+            "customer_id": 598,
+            "prediction": 0
+        },
+        {
+            "customer_id": 599,
+            "prediction": 0
+        },
+        {
+            "customer_id": 600,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 601,
+            "prediction": 0
+        },
+        {
+            "customer_id": 602,
+            "prediction": 0
+        },
+        {
+            "customer_id": 603,
+            "prediction": 0
+        },
+        {
+            "customer_id": 604,
+            "prediction": 0
+        },
+        {
+            "customer_id": 605,
+            "prediction": 0
+        },
+        {
+            "customer_id": 606,
+            "prediction": 0
+        },
+        {
+            "customer_id": 607,
+            "prediction": 0
+        },
+        {
+            "customer_id": 608,
+            "prediction": 0
+        },
+        {
+            "customer_id": 609,
+            "prediction": 0
+        },
+        {
+            "customer_id": 610,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 611,
+            "prediction": 0
+        },
+        {
+            "customer_id": 612,
+            "prediction": 0
+        },
+        {
+            "customer_id": 613,
+            "prediction": 0
+        },
+        {
+            "customer_id": 614,
+            "prediction": 0
+        },
+        {
+            "customer_id": 615,
+            "prediction": 0
+        },
+        {
+            "customer_id": 616,
+            "prediction": 0
+        },
+        {
+            "customer_id": 617,
+            "prediction": 0
+        },
+        {
+            "customer_id": 618,
+            "prediction": 0
+        },
+        {
+            "customer_id": 619,
+            "prediction": 0
+        },
+        {
+            "customer_id": 620,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 621,
+            "prediction": 0
+        },
+        {
+            "customer_id": 622,
+            "prediction": 0
+        },
+        {
+            "customer_id": 623,
+            "prediction": 0
+        },
+        {
+            "customer_id": 624,
+            "prediction": 0
+        },
+        {
+            "customer_id": 625,
+            "prediction": 0
+        },
+        {
+            "customer_id": 626,
+            "prediction": 0
+        },
+        {
+            "customer_id": 627,
+            "prediction": 0
+        },
+        {
+            "customer_id": 628,
+            "prediction": 0
+        },
+        {
+            "customer_id": 629,
+            "prediction": 0
+        },
+        {
+            "customer_id": 630,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 631,
+            "prediction": 0
+        },
+        {
+            "customer_id": 632,
+            "prediction": 0
+        },
+        {
+            "customer_id": 633,
+            "prediction": 0
+        },
+        {
+            "customer_id": 634,
+            "prediction": 0
+        },
+        {
+            "customer_id": 635,
+            "prediction": 0
+        },
+        {
+            "customer_id": 636,
+            "prediction": 0
+        },
+        {
+            "customer_id": 637,
+            "prediction": 0
+        },
+        {
+            "customer_id": 638,
+            "prediction": 0
+        },
+        {
+            "customer_id": 639,
+            "prediction": 0
+        },
+        {
+            "customer_id": 640,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 641,
+            "prediction": 0
+        },
+        {
+            "customer_id": 642,
+            "prediction": 1
+        },
+        {
+            "customer_id": 643,
+            "prediction": 0
+        },
+        {
+            "customer_id": 644,
+            "prediction": 0
+        },
+        {
+            "customer_id": 645,
+            "prediction": 0
+        },
+        {
+            "customer_id": 646,
+            "prediction": 0
+        },
+        {
+            "customer_id": 647,
+            "prediction": 1
+        },
+        {
+            "customer_id": 648,
+            "prediction": 0
+        },
+        {
+            "customer_id": 649,
+            "prediction": 0
+        },
+        {
+            "customer_id": 650,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 651,
+            "prediction": 0
+        },
+        {
+            "customer_id": 652,
+            "prediction": 0
+        },
+        {
+            "customer_id": 653,
+            "prediction": 0
+        },
+        {
+            "customer_id": 654,
+            "prediction": 0
+        },
+        {
+            "customer_id": 655,
+            "prediction": 0
+        },
+        {
+            "customer_id": 656,
+            "prediction": 0
+        },
+        {
+            "customer_id": 657,
+            "prediction": 1
+        },
+        {
+            "customer_id": 658,
+            "prediction": 0
+        },
+        {
+            "customer_id": 659,
+            "prediction": 0
+        },
+        {
+            "customer_id": 660,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 661,
+            "prediction": 0
+        },
+        {
+            "customer_id": 662,
+            "prediction": 0
+        },
+        {
+            "customer_id": 663,
+            "prediction": 0
+        },
+        {
+            "customer_id": 664,
+            "prediction": 0
+        },
+        {
+            "customer_id": 665,
+            "prediction": 1
+        },
+        {
+            "customer_id": 666,
+            "prediction": 0
+        },
+        {
+            "customer_id": 667,
+            "prediction": 0
+        },
+        {
+            "customer_id": 668,
+            "prediction": 0
+        },
+        {
+            "customer_id": 669,
+            "prediction": 0
+        },
+        {
+            "customer_id": 670,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 671,
+            "prediction": 0
+        },
+        {
+            "customer_id": 672,
+            "prediction": 1
+        },
+        {
+            "customer_id": 673,
+            "prediction": 1
+        },
+        {
+            "customer_id": 674,
+            "prediction": 0
+        },
+        {
+            "customer_id": 675,
+            "prediction": 0
+        },
+        {
+            "customer_id": 676,
+            "prediction": 0
+        },
+        {
+            "customer_id": 677,
+            "prediction": 0
+        },
+        {
+            "customer_id": 678,
+            "prediction": 0
+        },
+        {
+            "customer_id": 679,
+            "prediction": 0
+        },
+        {
+            "customer_id": 680,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 681,
+            "prediction": 0
+        },
+        {
+            "customer_id": 682,
+            "prediction": 1
+        },
+        {
+            "customer_id": 683,
+            "prediction": 1
+        },
+        {
+            "customer_id": 684,
+            "prediction": 0
+        },
+        {
+            "customer_id": 685,
+            "prediction": 0
+        },
+        {
+            "customer_id": 686,
+            "prediction": 0
+        },
+        {
+            "customer_id": 687,
+            "prediction": 0
+        },
+        {
+            "customer_id": 688,
+            "prediction": 0
+        },
+        {
+            "customer_id": 689,
+            "prediction": 0
+        },
+        {
+            "customer_id": 690,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 691,
+            "prediction": 0
+        },
+        {
+            "customer_id": 692,
+            "prediction": 0
+        },
+        {
+            "customer_id": 693,
+            "prediction": 0
+        },
+        {
+            "customer_id": 694,
+            "prediction": 0
+        },
+        {
+            "customer_id": 695,
+            "prediction": 0
+        },
+        {
+            "customer_id": 696,
+            "prediction": 0
+        },
+        {
+            "customer_id": 697,
+            "prediction": 0
+        },
+        {
+            "customer_id": 698,
+            "prediction": 0
+        },
+        {
+            "customer_id": 699,
+            "prediction": 1
+        },
+        {
+            "customer_id": 700,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 701,
+            "prediction": 0
+        },
+        {
+            "customer_id": 702,
+            "prediction": 1
+        },
+        {
+            "customer_id": 703,
+            "prediction": 0
+        },
+        {
+            "customer_id": 704,
+            "prediction": 0
+        },
+        {
+            "customer_id": 705,
+            "prediction": 0
+        },
+        {
+            "customer_id": 706,
+            "prediction": 0
+        },
+        {
+            "customer_id": 707,
+            "prediction": 0
+        },
+        {
+            "customer_id": 708,
+            "prediction": 0
+        },
+        {
+            "customer_id": 709,
+            "prediction": 0
+        },
+        {
+            "customer_id": 710,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 711,
+            "prediction": 0
+        },
+        {
+            "customer_id": 712,
+            "prediction": 0
+        },
+        {
+            "customer_id": 713,
+            "prediction": 0
+        },
+        {
+            "customer_id": 714,
+            "prediction": 0
+        },
+        {
+            "customer_id": 715,
+            "prediction": 0
+        },
+        {
+            "customer_id": 716,
+            "prediction": 0
+        },
+        {
+            "customer_id": 717,
+            "prediction": 0
+        },
+        {
+            "customer_id": 718,
+            "prediction": 0
+        },
+        {
+            "customer_id": 719,
+            "prediction": 0
+        },
+        {
+            "customer_id": 720,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 721,
+            "prediction": 0
+        },
+        {
+            "customer_id": 722,
+            "prediction": 0
+        },
+        {
+            "customer_id": 723,
+            "prediction": 0
+        },
+        {
+            "customer_id": 724,
+            "prediction": 0
+        },
+        {
+            "customer_id": 725,
+            "prediction": 0
+        },
+        {
+            "customer_id": 726,
+            "prediction": 0
+        },
+        {
+            "customer_id": 727,
+            "prediction": 0
+        },
+        {
+            "customer_id": 728,
+            "prediction": 0
+        },
+        {
+            "customer_id": 729,
+            "prediction": 0
+        },
+        {
+            "customer_id": 730,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 731,
+            "prediction": 0
+        },
+        {
+            "customer_id": 732,
+            "prediction": 0
+        },
+        {
+            "customer_id": 733,
+            "prediction": 0
+        },
+        {
+            "customer_id": 734,
+            "prediction": 0
+        },
+        {
+            "customer_id": 735,
+            "prediction": 0
+        },
+        {
+            "customer_id": 736,
+            "prediction": 0
+        },
+        {
+            "customer_id": 737,
+            "prediction": 0
+        },
+        {
+            "customer_id": 738,
+            "prediction": 0
+        },
+        {
+            "customer_id": 739,
+            "prediction": 1
+        },
+        {
+            "customer_id": 740,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 741,
+            "prediction": 0
+        },
+        {
+            "customer_id": 742,
+            "prediction": 0
+        },
+        {
+            "customer_id": 743,
+            "prediction": 0
+        },
+        {
+            "customer_id": 744,
+            "prediction": 1
+        },
+        {
+            "customer_id": 745,
+            "prediction": 1
+        },
+        {
+            "customer_id": 746,
+            "prediction": 0
+        },
+        {
+            "customer_id": 747,
+            "prediction": 0
+        },
+        {
+            "customer_id": 748,
+            "prediction": 1
+        },
+        {
+            "customer_id": 749,
+            "prediction": 0
+        },
+        {
+            "customer_id": 750,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 751,
+            "prediction": 0
+        },
+        {
+            "customer_id": 752,
+            "prediction": 0
+        },
+        {
+            "customer_id": 753,
+            "prediction": 0
+        },
+        {
+            "customer_id": 754,
+            "prediction": 0
+        },
+        {
+            "customer_id": 755,
+            "prediction": 0
+        },
+        {
+            "customer_id": 756,
+            "prediction": 0
+        },
+        {
+            "customer_id": 757,
+            "prediction": 0
+        },
+        {
+            "customer_id": 758,
+            "prediction": 0
+        },
+        {
+            "customer_id": 759,
+            "prediction": 0
+        },
+        {
+            "customer_id": 760,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 761,
+            "prediction": 0
+        },
+        {
+            "customer_id": 762,
+            "prediction": 0
+        },
+        {
+            "customer_id": 763,
+            "prediction": 1
+        },
+        {
+            "customer_id": 764,
+            "prediction": 0
+        },
+        {
+            "customer_id": 765,
+            "prediction": 1
+        },
+        {
+            "customer_id": 766,
+            "prediction": 0
+        },
+        {
+            "customer_id": 767,
+            "prediction": 0
+        },
+        {
+            "customer_id": 768,
+            "prediction": 0
+        },
+        {
+            "customer_id": 769,
+            "prediction": 0
+        },
+        {
+            "customer_id": 770,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 771,
+            "prediction": 0
+        },
+        {
+            "customer_id": 772,
+            "prediction": 0
+        },
+        {
+            "customer_id": 773,
+            "prediction": 0
+        },
+        {
+            "customer_id": 774,
+            "prediction": 0
+        },
+        {
+            "customer_id": 775,
+            "prediction": 0
+        },
+        {
+            "customer_id": 776,
+            "prediction": 0
+        },
+        {
+            "customer_id": 777,
+            "prediction": 1
+        },
+        {
+            "customer_id": 778,
+            "prediction": 1
+        },
+        {
+            "customer_id": 779,
+            "prediction": 0
+        },
+        {
+            "customer_id": 780,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 781,
+            "prediction": 0
+        },
+        {
+            "customer_id": 782,
+            "prediction": 0
+        },
+        {
+            "customer_id": 783,
+            "prediction": 0
+        },
+        {
+            "customer_id": 784,
+            "prediction": 0
+        },
+        {
+            "customer_id": 785,
+            "prediction": 0
+        },
+        {
+            "customer_id": 786,
+            "prediction": 0
+        },
+        {
+            "customer_id": 787,
+            "prediction": 0
+        },
+        {
+            "customer_id": 788,
+            "prediction": 0
+        },
+        {
+            "customer_id": 789,
+            "prediction": 0
+        },
+        {
+            "customer_id": 790,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 791,
+            "prediction": 1
+        },
+        {
+            "customer_id": 792,
+            "prediction": 0
+        },
+        {
+            "customer_id": 793,
+            "prediction": 0
+        },
+        {
+            "customer_id": 794,
+            "prediction": 0
+        },
+        {
+            "customer_id": 795,
+            "prediction": 0
+        },
+        {
+            "customer_id": 796,
+            "prediction": 0
+        },
+        {
+            "customer_id": 797,
+            "prediction": 0
+        },
+        {
+            "customer_id": 798,
+            "prediction": 0
+        },
+        {
+            "customer_id": 799,
+            "prediction": 0
+        },
+        {
+            "customer_id": 800,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 801,
+            "prediction": 0
+        },
+        {
+            "customer_id": 802,
+            "prediction": 0
+        },
+        {
+            "customer_id": 803,
+            "prediction": 0
+        },
+        {
+            "customer_id": 804,
+            "prediction": 0
+        },
+        {
+            "customer_id": 805,
+            "prediction": 1
+        },
+        {
+            "customer_id": 806,
+            "prediction": 0
+        },
+        {
+            "customer_id": 807,
+            "prediction": 0
+        },
+        {
+            "customer_id": 808,
+            "prediction": 1
+        },
+        {
+            "customer_id": 809,
+            "prediction": 1
+        },
+        {
+            "customer_id": 810,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 811,
+            "prediction": 0
+        },
+        {
+            "customer_id": 812,
+            "prediction": 0
+        },
+        {
+            "customer_id": 813,
+            "prediction": 0
+        },
+        {
+            "customer_id": 814,
+            "prediction": 0
+        },
+        {
+            "customer_id": 815,
+            "prediction": 0
+        },
+        {
+            "customer_id": 816,
+            "prediction": 0
+        },
+        {
+            "customer_id": 817,
+            "prediction": 0
+        },
+        {
+            "customer_id": 818,
+            "prediction": 0
+        },
+        {
+            "customer_id": 819,
+            "prediction": 0
+        },
+        {
+            "customer_id": 820,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 821,
+            "prediction": 1
+        },
+        {
+            "customer_id": 822,
+            "prediction": 0
+        },
+        {
+            "customer_id": 823,
+            "prediction": 0
+        },
+        {
+            "customer_id": 824,
+            "prediction": 0
+        },
+        {
+            "customer_id": 825,
+            "prediction": 0
+        },
+        {
+            "customer_id": 826,
+            "prediction": 0
+        },
+        {
+            "customer_id": 827,
+            "prediction": 0
+        },
+        {
+            "customer_id": 828,
+            "prediction": 0
+        },
+        {
+            "customer_id": 829,
+            "prediction": 0
+        },
+        {
+            "customer_id": 830,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 831,
+            "prediction": 0
+        },
+        {
+            "customer_id": 832,
+            "prediction": 0
+        },
+        {
+            "customer_id": 833,
+            "prediction": 0
+        },
+        {
+            "customer_id": 834,
+            "prediction": 0
+        },
+        {
+            "customer_id": 835,
+            "prediction": 0
+        },
+        {
+            "customer_id": 836,
+            "prediction": 0
+        },
+        {
+            "customer_id": 837,
+            "prediction": 1
+        },
+        {
+            "customer_id": 838,
+            "prediction": 0
+        },
+        {
+            "customer_id": 839,
+            "prediction": 0
+        },
+        {
+            "customer_id": 840,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 841,
+            "prediction": 0
+        },
+        {
+            "customer_id": 842,
+            "prediction": 0
+        },
+        {
+            "customer_id": 843,
+            "prediction": 0
+        },
+        {
+            "customer_id": 844,
+            "prediction": 0
+        },
+        {
+            "customer_id": 845,
+            "prediction": 0
+        },
+        {
+            "customer_id": 846,
+            "prediction": 0
+        },
+        {
+            "customer_id": 847,
+            "prediction": 1
+        },
+        {
+            "customer_id": 848,
+            "prediction": 0
+        },
+        {
+            "customer_id": 849,
+            "prediction": 0
+        },
+        {
+            "customer_id": 850,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 851,
+            "prediction": 0
+        },
+        {
+            "customer_id": 852,
+            "prediction": 0
+        },
+        {
+            "customer_id": 853,
+            "prediction": 0
+        },
+        {
+            "customer_id": 854,
+            "prediction": 0
+        },
+        {
+            "customer_id": 855,
+            "prediction": 0
+        },
+        {
+            "customer_id": 856,
+            "prediction": 1
+        },
+        {
+            "customer_id": 857,
+            "prediction": 0
+        },
+        {
+            "customer_id": 858,
+            "prediction": 0
+        },
+        {
+            "customer_id": 859,
+            "prediction": 0
+        },
+        {
+            "customer_id": 860,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 861,
+            "prediction": 0
+        },
+        {
+            "customer_id": 862,
+            "prediction": 0
+        },
+        {
+            "customer_id": 863,
+            "prediction": 0
+        },
+        {
+            "customer_id": 864,
+            "prediction": 0
+        },
+        {
+            "customer_id": 865,
+            "prediction": 1
+        },
+        {
+            "customer_id": 866,
+            "prediction": 0
+        },
+        {
+            "customer_id": 867,
+            "prediction": 0
+        },
+        {
+            "customer_id": 868,
+            "prediction": 0
+        },
+        {
+            "customer_id": 869,
+            "prediction": 0
+        },
+        {
+            "customer_id": 870,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 871,
+            "prediction": 0
+        },
+        {
+            "customer_id": 872,
+            "prediction": 0
+        },
+        {
+            "customer_id": 873,
+            "prediction": 0
+        },
+        {
+            "customer_id": 874,
+            "prediction": 0
+        },
+        {
+            "customer_id": 875,
+            "prediction": 1
+        },
+        {
+            "customer_id": 876,
+            "prediction": 0
+        },
+        {
+            "customer_id": 877,
+            "prediction": 0
+        },
+        {
+            "customer_id": 878,
+            "prediction": 1
+        },
+        {
+            "customer_id": 879,
+            "prediction": 0
+        },
+        {
+            "customer_id": 880,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 881,
+            "prediction": 0
+        },
+        {
+            "customer_id": 882,
+            "prediction": 0
+        },
+        {
+            "customer_id": 883,
+            "prediction": 0
+        },
+        {
+            "customer_id": 884,
+            "prediction": 0
+        },
+        {
+            "customer_id": 885,
+            "prediction": 0
+        },
+        {
+            "customer_id": 886,
+            "prediction": 0
+        },
+        {
+            "customer_id": 887,
+            "prediction": 0
+        },
+        {
+            "customer_id": 888,
+            "prediction": 0
+        },
+        {
+            "customer_id": 889,
+            "prediction": 0
+        },
+        {
+            "customer_id": 890,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 891,
+            "prediction": 0
+        },
+        {
+            "customer_id": 892,
+            "prediction": 0
+        },
+        {
+            "customer_id": 893,
+            "prediction": 0
+        },
+        {
+            "customer_id": 894,
+            "prediction": 0
+        },
+        {
+            "customer_id": 895,
+            "prediction": 0
+        },
+        {
+            "customer_id": 896,
+            "prediction": 1
+        },
+        {
+            "customer_id": 897,
+            "prediction": 0
+        },
+        {
+            "customer_id": 898,
+            "prediction": 0
+        },
+        {
+            "customer_id": 899,
+            "prediction": 1
+        },
+        {
+            "customer_id": 900,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 901,
+            "prediction": 0
+        },
+        {
+            "customer_id": 902,
+            "prediction": 0
+        },
+        {
+            "customer_id": 903,
+            "prediction": 0
+        },
+        {
+            "customer_id": 904,
+            "prediction": 0
+        },
+        {
+            "customer_id": 905,
+            "prediction": 0
+        },
+        {
+            "customer_id": 906,
+            "prediction": 0
+        },
+        {
+            "customer_id": 907,
+            "prediction": 0
+        },
+        {
+            "customer_id": 908,
+            "prediction": 0
+        },
+        {
+            "customer_id": 909,
+            "prediction": 0
+        },
+        {
+            "customer_id": 910,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 911,
+            "prediction": 0
+        },
+        {
+            "customer_id": 912,
+            "prediction": 0
+        },
+        {
+            "customer_id": 913,
+            "prediction": 0
+        },
+        {
+            "customer_id": 914,
+            "prediction": 0
+        },
+        {
+            "customer_id": 915,
+            "prediction": 0
+        },
+        {
+            "customer_id": 916,
+            "prediction": 0
+        },
+        {
+            "customer_id": 917,
+            "prediction": 0
+        },
+        {
+            "customer_id": 918,
+            "prediction": 0
+        },
+        {
+            "customer_id": 919,
+            "prediction": 0
+        },
+        {
+            "customer_id": 920,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 921,
+            "prediction": 0
+        },
+        {
+            "customer_id": 922,
+            "prediction": 0
+        },
+        {
+            "customer_id": 923,
+            "prediction": 0
+        },
+        {
+            "customer_id": 924,
+            "prediction": 0
+        },
+        {
+            "customer_id": 925,
+            "prediction": 0
+        },
+        {
+            "customer_id": 926,
+            "prediction": 0
+        },
+        {
+            "customer_id": 927,
+            "prediction": 0
+        },
+        {
+            "customer_id": 928,
+            "prediction": 1
+        },
+        {
+            "customer_id": 929,
+            "prediction": 0
+        },
+        {
+            "customer_id": 930,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 931,
+            "prediction": 0
+        },
+        {
+            "customer_id": 932,
+            "prediction": 1
+        },
+        {
+            "customer_id": 933,
+            "prediction": 0
+        },
+        {
+            "customer_id": 934,
+            "prediction": 0
+        },
+        {
+            "customer_id": 935,
+            "prediction": 0
+        },
+        {
+            "customer_id": 936,
+            "prediction": 0
+        },
+        {
+            "customer_id": 937,
+            "prediction": 0
+        },
+        {
+            "customer_id": 938,
+            "prediction": 0
+        },
+        {
+            "customer_id": 939,
+            "prediction": 0
+        },
+        {
+            "customer_id": 940,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 941,
+            "prediction": 0
+        },
+        {
+            "customer_id": 942,
+            "prediction": 0
+        },
+        {
+            "customer_id": 943,
+            "prediction": 0
+        },
+        {
+            "customer_id": 944,
+            "prediction": 0
+        },
+        {
+            "customer_id": 945,
+            "prediction": 0
+        },
+        {
+            "customer_id": 946,
+            "prediction": 0
+        },
+        {
+            "customer_id": 947,
+            "prediction": 1
+        },
+        {
+            "customer_id": 948,
+            "prediction": 0
+        },
+        {
+            "customer_id": 949,
+            "prediction": 0
+        },
+        {
+            "customer_id": 950,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 951,
+            "prediction": 0
+        },
+        {
+            "customer_id": 952,
+            "prediction": 0
+        },
+        {
+            "customer_id": 953,
+            "prediction": 0
+        },
+        {
+            "customer_id": 954,
+            "prediction": 0
+        },
+        {
+            "customer_id": 955,
+            "prediction": 1
+        },
+        {
+            "customer_id": 956,
+            "prediction": 0
+        },
+        {
+            "customer_id": 957,
+            "prediction": 0
+        },
+        {
+            "customer_id": 958,
+            "prediction": 1
+        },
+        {
+            "customer_id": 959,
+            "prediction": 0
+        },
+        {
+            "customer_id": 960,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 961,
+            "prediction": 0
+        },
+        {
+            "customer_id": 962,
+            "prediction": 0
+        },
+        {
+            "customer_id": 963,
+            "prediction": 0
+        },
+        {
+            "customer_id": 964,
+            "prediction": 1
+        },
+        {
+            "customer_id": 965,
+            "prediction": 1
+        },
+        {
+            "customer_id": 966,
+            "prediction": 0
+        },
+        {
+            "customer_id": 967,
+            "prediction": 0
+        },
+        {
+            "customer_id": 968,
+            "prediction": 0
+        },
+        {
+            "customer_id": 969,
+            "prediction": 0
+        },
+        {
+            "customer_id": 970,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 971,
+            "prediction": 0
+        },
+        {
+            "customer_id": 972,
+            "prediction": 0
+        },
+        {
+            "customer_id": 973,
+            "prediction": 0
+        },
+        {
+            "customer_id": 974,
+            "prediction": 0
+        },
+        {
+            "customer_id": 975,
+            "prediction": 0
+        },
+        {
+            "customer_id": 976,
+            "prediction": 0
+        },
+        {
+            "customer_id": 977,
+            "prediction": 0
+        },
+        {
+            "customer_id": 978,
+            "prediction": 0
+        },
+        {
+            "customer_id": 979,
+            "prediction": 0
+        },
+        {
+            "customer_id": 980,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 981,
+            "prediction": 0
+        },
+        {
+            "customer_id": 982,
+            "prediction": 0
+        },
+        {
+            "customer_id": 983,
+            "prediction": 0
+        },
+        {
+            "customer_id": 984,
+            "prediction": 0
+        },
+        {
+            "customer_id": 985,
+            "prediction": 0
+        },
+        {
+            "customer_id": 986,
+            "prediction": 0
+        },
+        {
+            "customer_id": 987,
+            "prediction": 0
+        },
+        {
+            "customer_id": 988,
+            "prediction": 0
+        },
+        {
+            "customer_id": 989,
+            "prediction": 1
+        },
+        {
+            "customer_id": 990,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 991,
+            "prediction": 0
+        },
+        {
+            "customer_id": 992,
+            "prediction": 0
+        },
+        {
+            "customer_id": 993,
+            "prediction": 0
+        },
+        {
+            "customer_id": 994,
+            "prediction": 0
+        },
+        {
+            "customer_id": 995,
+            "prediction": 0
+        },
+        {
+            "customer_id": 996,
+            "prediction": 0
+        },
+        {
+            "customer_id": 997,
+            "prediction": 0
+        },
+        {
+            "customer_id": 998,
+            "prediction": 0
+        },
+        {
+            "customer_id": 999,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1000,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 1001,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1002,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1003,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1004,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1005,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1006,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1007,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1008,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1009,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1010,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1011,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1012,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1013,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1014,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1015,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1016,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1017,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1018,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1019,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1020,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1021,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1022,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1023,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1024,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1025,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1026,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1027,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1028,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1029,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1030,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1031,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1032,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1033,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1034,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1035,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1036,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1037,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1038,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1039,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1040,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1041,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1042,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1043,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1044,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1045,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1046,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1047,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1048,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1049,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1050,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 1051,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1052,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1053,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1054,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1055,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1056,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1057,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1058,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1059,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1060,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1061,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1062,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1063,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1064,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1065,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1066,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1067,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1068,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1069,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1070,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1071,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1072,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1073,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1074,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1075,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1076,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1077,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1078,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1079,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1080,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1081,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1082,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1083,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1084,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1085,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1086,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1087,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1088,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1089,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1090,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1091,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1092,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1093,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1094,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1095,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1096,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1097,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1098,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1099,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1100,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1101,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1102,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1103,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1104,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1105,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1106,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1107,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1108,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1109,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1110,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1111,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1112,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1113,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1114,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1115,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1116,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1117,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1118,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1119,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1120,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1121,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1122,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1123,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1124,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1125,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1126,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1127,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1128,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1129,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1130,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1131,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1132,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1133,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1134,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1135,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1136,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1137,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1138,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1139,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1140,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1141,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1142,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1143,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1144,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1145,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1146,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1147,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1148,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1149,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1150,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1151,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1152,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1153,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1154,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1155,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1156,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1157,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1158,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1159,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1160,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 1161,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1162,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1163,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1164,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1165,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1166,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1167,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1168,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1169,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1170,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1171,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1172,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1173,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1174,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1175,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1176,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1177,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1178,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1179,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1180,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1181,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1182,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1183,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1184,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1185,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1186,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1187,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1188,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1189,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1190,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 1191,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1192,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1193,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1194,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1195,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1196,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1197,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1198,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1199,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1200,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1201,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1202,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1203,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1204,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1205,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1206,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1207,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1208,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1209,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1210,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1211,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1212,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1213,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1214,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1215,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1216,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1217,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1218,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1219,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1220,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1221,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1222,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1223,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1224,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1225,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1226,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1227,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1228,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1229,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1230,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1231,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1232,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1233,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1234,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1235,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1236,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1237,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1238,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1239,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1240,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1241,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1242,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1243,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1244,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1245,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1246,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1247,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1248,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1249,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1250,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1251,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1252,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1253,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1254,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1255,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1256,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1257,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1258,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1259,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1260,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1261,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1262,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1263,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1264,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1265,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1266,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1267,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1268,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1269,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1270,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1271,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1272,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1273,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1274,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1275,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1276,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1277,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1278,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1279,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1280,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1281,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1282,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1283,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1284,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1285,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1286,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1287,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1288,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1289,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1290,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1291,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1292,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1293,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1294,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1295,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1296,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1297,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1298,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1299,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1300,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1301,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1302,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1303,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1304,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1305,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1306,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1307,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1308,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1309,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1310,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1311,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1312,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1313,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1314,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1315,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1316,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1317,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1318,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1319,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1320,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1321,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1322,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1323,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1324,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1325,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1326,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1327,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1328,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1329,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1330,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1331,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1332,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1333,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1334,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1335,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1336,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1337,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1338,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1339,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1340,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1341,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1342,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1343,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1344,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1345,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1346,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1347,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1348,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1349,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1350,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1351,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1352,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1353,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1354,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1355,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1356,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1357,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1358,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1359,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1360,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 1361,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1362,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1363,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1364,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1365,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1366,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1367,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1368,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1369,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1370,
+            "prediction": 1
+        }
+    ],
+    [
+        {
+            "customer_id": 1371,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1372,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1373,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1374,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1375,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1376,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1377,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1378,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1379,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1380,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1381,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1382,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1383,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1384,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1385,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1386,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1387,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1388,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1389,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1390,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1391,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1392,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1393,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1394,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1395,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1396,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1397,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1398,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1399,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1400,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1401,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1402,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1403,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1404,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1405,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1406,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1407,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1408,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1409,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1410,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1411,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1412,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1413,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1414,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1415,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1416,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1417,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1418,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1419,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1420,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1421,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1422,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1423,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1424,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1425,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1426,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1427,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1428,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1429,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1430,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1431,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1432,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1433,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1434,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1435,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1436,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1437,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1438,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1439,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1440,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1441,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1442,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1443,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1444,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1445,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1446,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1447,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1448,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1449,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1450,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1451,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1452,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1453,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1454,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1455,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1456,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1457,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1458,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1459,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1460,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1461,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1462,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1463,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1464,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1465,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1466,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1467,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1468,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1469,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1470,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1471,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1472,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1473,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1474,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1475,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1476,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1477,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1478,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1479,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1480,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1481,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1482,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1483,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1484,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1485,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1486,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1487,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1488,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1489,
+            "prediction": 1
+        },
+        {
+            "customer_id": 1490,
+            "prediction": 0
+        }
+    ],
+    [
+        {
+            "customer_id": 1491,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1492,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1493,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1494,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1495,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1496,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1497,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1498,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1499,
+            "prediction": 0
+        },
+        {
+            "customer_id": 1500,
+            "prediction": 0
+        }
+    ]
+]
